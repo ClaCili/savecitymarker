@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.safecity",
+    "sha256_cert_fingerprints": [
+      "E172A72C1C7EF3226C87CEF81223B36F77D0C6C6CD4A412E1F6F9FA3D48C8BA6"
+    ]
+  }
+}]
